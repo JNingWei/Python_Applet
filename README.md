@@ -1,2 +1,2 @@
 # Python-Applet
-Python applet written by myself, for daily use.
+Python applets written by myself, for daily use.
