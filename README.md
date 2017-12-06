@@ -13,6 +13,10 @@ __Update 13-05-2017__:   __Python applets written by myself, for daily use in de
 
 - [ ] [图像识别标记工具：人为标记图片数据集]()
 
+## Requirements
+
+   * Python
+
 ## License
 
 [MIT](https://github.com/JNingWei/Python-Applet/blob/master/LICENSE.md)
