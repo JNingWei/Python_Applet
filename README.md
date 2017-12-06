@@ -5,13 +5,13 @@ __Update 13-05-2017__:   __Python applets written by myself, for daily use in de
 
 # Usage
 
-- [x] [图像识别模型下载：```下载指定url的文件到本地指定地址```](https://github.com/JNingWei/Python-Applet/tree/master/DownloadFileFromUrl)
+- [x] [图像识别模型下载](https://github.com/JNingWei/Python-Applet/tree/master/DownloadFileFromUrl)：```下载指定url的文件到本地指定地址```
 
-- [x] [图像识别数据采集：```按指定关键字批量下载图片数据集```](https://github.com/JNingWei/Python-Applet/tree/master/DownloadImageThroughSpecificKeyword)
+- [x] [图像识别数据采集](https://github.com/JNingWei/Python-Applet/tree/master/DownloadImageThroughSpecificKeyword)：```按指定关键字批量下载图片数据集```
 
-- [x] [图像识别数据采集：```从指定网站批量分类下载图片数据集```](https://github.com/JNingWei/Python-Applet/tree/master/DownloadImageThroughSpecificWebsite)
+- [x] [图像识别数据采集](https://github.com/JNingWei/Python-Applet/tree/master/DownloadImageThroughSpecificWebsite)：```从指定网站批量分类下载图片数据集```
 
-- [ ] [图像识别标记工具：```人为标记图片数据集```]()
+- [ ] [图像识别标记工具]()：```人为标记图片数据集```
 
 ## Requirements
 
