@@ -1,3 +1,11 @@
+# coding=utf-8
+
+"""
+Python-Applet
+Download file from url.
+__author__ = 'JNingWei'
+"""
+
 import os
 import urllib
 import logging
