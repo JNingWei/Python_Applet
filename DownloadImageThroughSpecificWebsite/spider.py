@@ -1,11 +1,10 @@
-# -*- coding:utf8 -*-
-# Python:         2.7.8
-# Platform:       Windows
-# Author:         wucl
-# Version:        1.0
-# Program:        自动下载对应网站的图片并保存到本地
-# History:        2015.5.31
-#                 2015.6.2  发现被禁止抓取了，增加了随机的浏览器头部信息，模拟浏览器抓取。
+# coding=utf-8
+
+"""
+Python-Applet
+Download image through specific website.
+__author__ = 'JNingWei'
+"""
  
 import urllib2, os, os.path, urllib, random
 from bs4 import BeautifulSoup
