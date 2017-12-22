@@ -1,5 +1,10 @@
-#!/usr/bin/python  
-# -*- coding: utf-8 -*-
+# coding=utf-8
+
+"""
+Python-Applet
+Download image through specific keyword.
+__author__ = 'JNingWei'
+"""
 
 import urllib
 import json
