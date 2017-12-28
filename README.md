@@ -1,7 +1,6 @@
 # Python Applet　![Travis](https://img.shields.io/codecov/c/github/codecov/example-python.svg) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/全宇宙最好的-python小程序-pink.svg)
 
-__Update 13-05-2017__:   __Python applets written by myself, for daily use in development of Image Recognition.__
-
+__Update 13-05-2017__:   __On the basis of learning from others, I wrote these python crawler applets myself, for daily use in development of Image Recognition.__
 
 ## Usage
 
